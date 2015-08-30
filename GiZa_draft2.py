@@ -80,8 +80,6 @@ def easy_puzzle():
 
 	c = op(a, b)
 
-	print "!!! test - answer !!! = ", c
-
 	print "Hiero-Puzzle: %d %s %d =" % (a, o, b)
 	answer = int(raw_input("--> "))
 
