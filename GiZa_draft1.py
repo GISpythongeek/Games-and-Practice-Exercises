@@ -21,7 +21,7 @@ next level (which is where the game stops for now).
 I created this script as a practice exercise for my "Learn Python the Hard Way" 
 tutorial. 
 
-I run this script via my command line on my Mac.
+I run this script via the command line on my Mac.
 """
 
 import time
