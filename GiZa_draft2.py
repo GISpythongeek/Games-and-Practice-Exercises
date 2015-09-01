@@ -1,11 +1,8 @@
 # Script Name: GiZa_draft2.py
 # Author: Melanie
-# Date Created: 29 August 2015
-# Last Modified: 29 August 2015
-# Version: 1.0
 
 # Modifications: Set the game to include 7 chambers, and at each chamber door the 
-# 'Hiero-Puzzle' is now different everytime.
+	# 'Hiero-Puzzle' is now different everytime.
 
 """
 Description: This script is a painfully simple game aimed at kids learning
