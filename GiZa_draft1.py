@@ -1,10 +1,5 @@
 # Script Name: GiZa_draft1.py
 # Author: Melanie
-# Date Created: 28 August 2015
-# Last Modified: 28 August 2015
-# Version: 1.0
-
-# Modifications: <none>
 
 """
 Description: This script is a painfully simple game aimed at kids learning
